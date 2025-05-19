@@ -16,4 +16,4 @@ I'm a full-stack developer passionate about open source!
 
 <!-- You can also include stats and badges -->
 
-![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true)
+![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridget100&show_icons=true)
