@@ -15,5 +15,5 @@ I'm a Data Sceintist passionate about open source!
 - [LinkedIn](www.linkedin.com/in/bridget-nankunda-2b3380238)
 
 <!-- You can also include stats and badges -->
-https://rahuldkjain.github.io/gh-profile-readme-generator/
+
 ![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridget100&show_icons=true)
