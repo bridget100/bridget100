@@ -12,10 +12,6 @@ I'm a Data Scientist and Analytics enthusiast with a strong foundation in geospa
 - React / Node.js
 - Python / Django
 
-## 📫 How to reach me
-🔗 [LinkedIn] (www.linkedin.com/in/bridget-nankunda-2b3380238)
-- 📧 Email: nankundabridget2@gmail.com
-
 <!-- You can also include stats and badges -->
 
 ![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridget100&show_icons=true)
