@@ -18,6 +18,6 @@ I'm a Data Scientist and Analytics enthusiast with a strong foundation in geospa
 
 <!-- You can also include stats and badges -->
 
-![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=muganga-charles&show_icons=true)
+![Bridget's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridget100&show_icons=true)
 
 > _“Data is more than numbers — it’s a lens through which we can solve problems that matter.”_
