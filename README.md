@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bridget
 
-I'm a full-stack developer passionate about open source!
+I'm a Data Sceintist passionate about open source!
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
@@ -11,8 +11,8 @@ I'm a full-stack developer passionate about open source!
 - Python / Django
 
 ## 📫 How to reach me
-- [Email](mailto:bridget@gmail.com)
-- [LinkedIn](https://linkedin.com/in/bridget100)
+- [Email](mailto:nankundabridget2@gmail.com)
+- [LinkedIn](www.linkedin.com/in/bridget-nankunda-2b3380238)
 
 <!-- You can also include stats and badges -->
 
